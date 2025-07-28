@@ -24,7 +24,6 @@ Farmers often face difficulty choosing the right crop based on soil and climate.
 
 ## Project Structure
 cropapp/
-
 │
 ├── app.py # Streamlit application
 
